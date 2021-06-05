@@ -3,7 +3,6 @@
  *  Copyright 2021 Evan Raiford
  */
 package ex11;
-
 import java.util.Scanner;
 
 public class App {
